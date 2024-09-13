@@ -44,7 +44,6 @@ This project demonstrates how to upload and retrieve files from an AWS S3 bucket
 <h4>
      <a href="https://go.dev/">Golang</a>
      <a href="https://echo.labstack.com/">Echo</a>
-     <a href="https://gorm.io/">GORM</a>
      <a href="https://aws.amazon.com/s3/">Amazon S3</a>
 </h4>
 
